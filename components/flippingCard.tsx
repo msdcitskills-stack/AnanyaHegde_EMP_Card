@@ -95,7 +95,7 @@ export const FlippingCard = () => {
                                         priority
                                     />
                                 </div>
-                                <div className='absolute left-1/2 -translate-x-1/2 bottom-63 z-10'>
+                                <div className='absolute left-1/2 -translate-x-1/2 bottom-61 z-10'>
                                     <div className='inline-flex items-center gap-2 rounded-full border border-[#2f2200]/20 bg-white/80 px-2.5 py-1 shadow-[inset_0_1px_0_rgba(255,255,255,0.7)]'>
                                         <span className='text-[8px] uppercase tracking-[0.18em] text-[#2f2200]'>Emp No</span>
                                         <span className='text-[10px] font-bold tracking-[0.18em] text-[#2f2200]'>MSDC065</span>
@@ -140,7 +140,7 @@ export const FlippingCard = () => {
                                 <DashOutline className="text-white opacity-20 -translate-y-px " />
                                 <DashOutline className="text-sky-50 opacity-60 " />
 
-                                <div className='absolute left-1/2 top-[5.1rem] -translate-x-1/2 z-10 flex h-28 w-36 items-center justify-center'>
+                                <div className='absolute left-1/2 top-[6.1rem] -translate-x-1/2 z-10 flex h-28 w-36 items-center justify-center'>
                                     <Image
                                         src="/sois-logo.png"
                                         alt="SOIS Logo"
@@ -151,16 +151,16 @@ export const FlippingCard = () => {
                                     />
                                 </div>
 
-                                <div className='absolute left-1/2 top-[58%] -translate-x-1/2 -translate-y-1/2 z-10 flex flex-col items-center justify-center text-center'>
+                                <div className='absolute left-1/2 top-[61%] -translate-x-1/2 -translate-y-1/2 z-10 flex flex-col items-center justify-center text-center'>
                                     <span className='font-mono text-[12px] font-semibold uppercase tracking-[0.22em] text-[#2f2200]'>A School of</span>
                                 </div>
 
-                                <div className='absolute left-1/2 bottom-11 -translate-x-1/2 z-10 flex h-20 w-28 items-center justify-center'>
+                                <div className='absolute left-1/2 bottom-7 -translate-x-1/2 z-10 flex h-24 w-32 items-center justify-center'>
                                     <Image
                                         src="/MSDC_Logo.png"
                                         alt="MSDC Logo"
-                                        width={150}
-                                        height={80}
+                                        width={180}
+                                        height={100}
                                         className='h-full w-full object-contain'
                                         priority
                                     />
