@@ -140,19 +140,19 @@ export const FlippingCard = () => {
                                 <DashOutline className="text-white opacity-20 -translate-y-px " />
                                 <DashOutline className="text-sky-50 opacity-60 " />
 
-                                <div className='absolute left-1/2 top-[5.2rem] -translate-x-1/2 z-10 flex h-20 w-28 items-center justify-center'>
+                                <div className='absolute left-1/2 top-[5.1rem] -translate-x-1/2 z-10 flex h-28 w-36 items-center justify-center'>
                                     <Image
                                         src="/sois-logo.png"
                                         alt="SOIS Logo"
-                                        width={150}
-                                        height={80}
+                                        width={190}
+                                        height={100}
                                         className='h-full w-full object-contain'
                                         priority
                                     />
                                 </div>
 
-                                <div className='absolute left-1/2 top-[54%] -translate-x-1/2 -translate-y-1/2 z-10 flex flex-col items-center justify-center text-center'>
-                                    <span className='font-mono text-[10px] uppercase tracking-[0.24em] text-[#2f2200]'>A School of</span>
+                                <div className='absolute left-1/2 top-[58%] -translate-x-1/2 -translate-y-1/2 z-10 flex flex-col items-center justify-center text-center'>
+                                    <span className='font-mono text-[12px] font-semibold uppercase tracking-[0.22em] text-[#2f2200]'>A School of</span>
                                 </div>
 
                                 <div className='absolute left-1/2 bottom-11 -translate-x-1/2 z-10 flex h-20 w-28 items-center justify-center'>
