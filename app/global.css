@@ -6,7 +6,7 @@
   --page-bg: #fff7d6; /* very light gold page background */
   --card: #ffcc00; /* primary card color (base gold) */
   --card-grad-end: #e6b200; /* gradient end / darker gold */
-  --card-outline: #bf8f00; /* outline/darker accent */
+  --card-outline: #0033ff; /* outline/darker accent */
   --cardback: #ffe680; /* lighter/back card tone */
 
   --text-primary: #2f2200; /* dark readable text on gold */
