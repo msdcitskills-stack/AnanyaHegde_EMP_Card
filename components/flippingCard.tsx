@@ -95,7 +95,7 @@ export const FlippingCard = () => {
                                         priority
                                     />
                                 </div>
-                                <div className='absolute left-1/2 -translate-x-1/2 bottom-61 z-10'>
+                                <div className='absolute left-1/2 -translate-x-1/2 bottom-63 z-10'>
                                     <div className='inline-flex items-center gap-2 rounded-full border border-[#2f2200]/20 bg-white/80 px-2.5 py-1 shadow-[inset_0_1px_0_rgba(255,255,255,0.7)]'>
                                         <span className='text-[8px] uppercase tracking-[0.18em] text-[#2f2200]'>Emp No</span>
                                         <span className='text-[10px] font-bold tracking-[0.18em] text-[#2f2200]'>MSDC065</span>
