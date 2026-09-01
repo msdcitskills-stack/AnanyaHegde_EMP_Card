@@ -106,7 +106,7 @@ export const FlippingCard = () => {
                                         <LogoFront />
                                     </CardLogo>
                                 </div>
-                                <CardBody className='absolute bottom-34 left-1 right-0 px-4 pb-2'>
+                                <CardBody className='absolute bottom-34 left-3 right-0 px-4 pb-2'>
                                     <div className='flex justify-between items-end font-mono tracking-wide text-sm mt-0 max-sm:text-xs max-sm:mt-0'>
                                         <CardDescription className='tracking-tight w-full pl-2'>
                                             <p className='text-[#2f2200] text-left text-[18px] font-medium'>Ananya V Hegde</p>
